@@ -1,0 +1,7 @@
+name: Buyer
+version: '${version}'
+main: ru.n08i40k.buyer.BuyerPlugin
+api-version: '1.16'
+depend:
+  - NBTAPI
+  - Vault
